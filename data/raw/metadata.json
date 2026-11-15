@@ -1,0 +1,38 @@
+{
+  "seed": 42,
+  "allocine_train": 10000,
+  "allocine_val": 2000,
+  "allocine_test": 2000,
+  "ffr_paires": 57458,
+  "projection_haute_confiance": 1175,
+  "fon_train": 701,
+  "fon_val": 115,
+  "fon_test": 220,
+  "fon_verifie_candidats": 105,
+  "audit_fon_sentiments": {
+    "n": 34915,
+    "colonnes": [
+      "Fon",
+      "sentiment"
+    ],
+    "n_positif": 19468,
+    "n_negatif": 15447,
+    "avec_lettre_fon_ɔɛɖ": 14649,
+    "part_avec_lettre_fon": 0.4196,
+    "latin_sans_lettre_fon": 16791,
+    "contient_cyrillique": 0,
+    "allure_francaise_sans_lettre_fon": 4559,
+    "etiquettes": "automatiques (DistilBERT anglais sur une traduction, d'après la fiche HF)",
+    "decision": "écarté de l'entraînement et de l'évaluation : étiquettes non humaines et mélange de langues visible"
+  },
+  "fon_train_pos": 471,
+  "fon_train_neg": 230,
+  "fon_val_pos": 64,
+  "fon_val_neg": 51,
+  "fon_test_pos": 133,
+  "fon_test_neg": 87,
+  "fon_verifie": 68,
+  "fon_verifie_pos": 36,
+  "fon_verifie_neg": 32,
+  "methode_projection": "lexique français conservative, phrases sans négation ni locution figée ; jeu vérifié relu sur le français"
+}

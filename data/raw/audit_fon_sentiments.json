@@ -1,0 +1,16 @@
+{
+  "n": 34915,
+  "colonnes": [
+    "Fon",
+    "sentiment"
+  ],
+  "n_positif": 19468,
+  "n_negatif": 15447,
+  "avec_lettre_fon_ɔɛɖ": 14649,
+  "part_avec_lettre_fon": 0.4196,
+  "latin_sans_lettre_fon": 16791,
+  "contient_cyrillique": 0,
+  "allure_francaise_sans_lettre_fon": 4559,
+  "etiquettes": "automatiques (DistilBERT anglais sur une traduction, d'après la fiche HF)",
+  "decision": "écarté de l'entraînement et de l'évaluation : étiquettes non humaines et mélange de langues visible"
+}
