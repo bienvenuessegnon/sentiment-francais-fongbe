@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.11%20|%203.12-blue)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
 
+**Démo en ligne : [sentiment-francais-fongbe.onrender.com](https://sentiment-francais-fongbe.onrender.com)** — hébergement gratuit : le premier chargement peut prendre une minute.
+
 Classer une phrase comme **positive** ou **négative**, en **français** ou en
 **fongbé**, et reconnaître d'abord la langue. Le français s'appuie sur des
 critiques Allociné (étiquettes d'origine). Pour le fongbé, il n'existe pas de
