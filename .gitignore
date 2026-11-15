@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Sources volumineuses (Allociné complet, corpus parallèle brut) :
+# retéléchargées par python -m src.pipeline si data/processed/ est déjà présent,
+# ou par src.data.download_sources()
+data/external/
+
+# Cache d'entraînement (transformeur)
+.cache/
+models/minilm_sentiment/
+
+# Système / éditeurs
+.DS_Store
+.vscode/
+.idea/
+.env
+.env.*

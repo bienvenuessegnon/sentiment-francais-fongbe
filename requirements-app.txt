@@ -1,0 +1,6 @@
+# Dépendances de l'application Streamlit (déploiement Render, ~512 Mo)
+streamlit>=1.45,<2
+pandas>=2.2,<4
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+joblib>=1.3,<2
