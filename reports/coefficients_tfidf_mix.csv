@@ -1,0 +1,31 @@
+classe,feature,coefficient
+positif,word__voir,3.255456708836386
+positif,word__bon film,3.1672375614684034
+positif,word__bon,3.145238883371803
+positif,word__beau,2.5010149054742103
+positif,word__heureux,2.261964467022249
+positif,word__wú,2.252499322449652
+positif,word__víví,2.221435535063241
+positif,word__excellent,2.2161286888444387
+positif,char__rès b,2.169318995295172
+positif,char__ès b,2.169318995295172
+positif,word__très bon,2.1532979747329586
+positif,word__ɖu,1.9952006550043129
+positif,word__ne ennuie,1.977009370602999
+positif,char__ ! ,1.975753418546878
+positif,word__aime,1.966966114593409
+négatif,word__mauvais,-3.1438778870168926
+négatif,word__navet,-3.06902258021558
+négatif,word__mal,-2.7811884128131843
+négatif,word__rien,-2.6471550725928306
+négatif,char__...,-2.550144488736953
+négatif,word__intérêt,-2.479554591746147
+négatif,word__pas,-2.443885885245152
+négatif,char__auv,-2.3772431035035035
+négatif,word__ennui,-2.3353352490886343
+négatif,char__ennu,-2.3254041894241513
+négatif,word__xεsi,-2.295154116818849
+négatif,char__a h,-2.2475328572911666
+négatif,word__raté,-2.092028103634425
+négatif,word__jɛ,-2.055783287334867
+négatif,word__nul,-2.0373708600101947

@@ -1,0 +1,218 @@
+{
+  "resultats": {
+    "TF-IDF fr::fr_test": {
+      "n": 2000,
+      "accuracy": 0.9125,
+      "f1_macro": 0.9124950778481289,
+      "f1_negatif": 0.913151364764268,
+      "f1_positif": 0.9118387909319899,
+      "precision_negatif": 0.9064039408866995,
+      "precision_positif": 0.9187817258883249,
+      "rappel_negatif": 0.92,
+      "rappel_positif": 0.905,
+      "support_negatif": 1000,
+      "support_positif": 1000,
+      "matrice": [
+        [
+          920,
+          80
+        ],
+        [
+          95,
+          905
+        ]
+      ]
+    },
+    "TF-IDF fr::fon_proj_test": {
+      "n": 220,
+      "accuracy": 0.42727272727272725,
+      "f1_macro": 0.3778615674656612,
+      "f1_negatif": 0.5531914893617021,
+      "f1_positif": 0.20253164556962025,
+      "precision_negatif": 0.4,
+      "precision_positif": 0.64,
+      "rappel_negatif": 0.896551724137931,
+      "rappel_positif": 0.12030075187969924,
+      "support_negatif": 87,
+      "support_positif": 133,
+      "matrice": [
+        [
+          78,
+          9
+        ],
+        [
+          117,
+          16
+        ]
+      ]
+    },
+    "TF-IDF fr::fon_verifie": {
+      "n": 68,
+      "accuracy": 0.5,
+      "f1_macro": 0.3979166666666667,
+      "f1_negatif": 0.6458333333333334,
+      "f1_positif": 0.15,
+      "precision_negatif": 0.484375,
+      "precision_positif": 0.75,
+      "rappel_negatif": 0.96875,
+      "rappel_positif": 0.08333333333333333,
+      "support_negatif": 32,
+      "support_positif": 36,
+      "matrice": [
+        [
+          31,
+          1
+        ],
+        [
+          33,
+          3
+        ]
+      ]
+    },
+    "TF-IDF fr::fr_val": {
+      "n": 2000,
+      "accuracy": 0.9155,
+      "f1_macro": 0.9154952466076216,
+      "f1_negatif": 0.9148614609571788,
+      "f1_positif": 0.9161290322580645,
+      "precision_negatif": 0.9218274111675127,
+      "precision_positif": 0.90935960591133,
+      "rappel_negatif": 0.908,
+      "rappel_positif": 0.923,
+      "support_negatif": 1000,
+      "support_positif": 1000,
+      "matrice": [
+        [
+          908,
+          92
+        ],
+        [
+          77,
+          923
+        ]
+      ]
+    },
+    "TF-IDF fr+fon::fr_test": {
+      "n": 2000,
+      "accuracy": 0.916,
+      "f1_macro": 0.915994623655914,
+      "f1_negatif": 0.9166666666666666,
+      "f1_positif": 0.9153225806451613,
+      "precision_negatif": 0.9094488188976378,
+      "precision_positif": 0.9227642276422764,
+      "rappel_negatif": 0.924,
+      "rappel_positif": 0.908,
+      "support_negatif": 1000,
+      "support_positif": 1000,
+      "matrice": [
+        [
+          924,
+          76
+        ],
+        [
+          92,
+          908
+        ]
+      ]
+    },
+    "TF-IDF fr+fon::fon_proj_test": {
+      "n": 220,
+      "accuracy": 0.8272727272727273,
+      "f1_macro": 0.8161991029812681,
+      "f1_negatif": 0.7710843373493976,
+      "f1_positif": 0.8613138686131386,
+      "precision_negatif": 0.810126582278481,
+      "precision_positif": 0.8368794326241135,
+      "rappel_negatif": 0.735632183908046,
+      "rappel_positif": 0.8872180451127819,
+      "support_negatif": 87,
+      "support_positif": 133,
+      "matrice": [
+        [
+          64,
+          23
+        ],
+        [
+          15,
+          118
+        ]
+      ]
+    },
+    "TF-IDF fr+fon::fon_verifie": {
+      "n": 68,
+      "accuracy": 0.8088235294117647,
+      "f1_macro": 0.806775956284153,
+      "f1_negatif": 0.7868852459016393,
+      "f1_positif": 0.8266666666666667,
+      "precision_negatif": 0.8275862068965517,
+      "precision_positif": 0.7948717948717948,
+      "rappel_negatif": 0.75,
+      "rappel_positif": 0.8611111111111112,
+      "support_negatif": 32,
+      "support_positif": 36,
+      "matrice": [
+        [
+          24,
+          8
+        ],
+        [
+          5,
+          31
+        ]
+      ]
+    },
+    "TF-IDF fr+fon::fr_val": {
+      "n": 2000,
+      "accuracy": 0.9115,
+      "f1_macro": 0.9114920121540969,
+      "f1_negatif": 0.9106511862695609,
+      "f1_positif": 0.912332838038633,
+      "precision_negatif": 0.9194699286442406,
+      "precision_positif": 0.9038272816486752,
+      "rappel_negatif": 0.902,
+      "rappel_positif": 0.921,
+      "support_negatif": 1000,
+      "support_positif": 1000,
+      "matrice": [
+        [
+          902,
+          98
+        ],
+        [
+          79,
+          921
+        ]
+      ]
+    },
+    "lid": {
+      "n": 6700,
+      "accuracy": 0.9976119402985074,
+      "f1_macro": 0.9973874497766464
+    }
+  },
+  "lid": {
+    "n": 6700,
+    "accuracy": 0.9976119402985074,
+    "f1_macro": 0.9973874497766464
+  },
+  "rapports": {
+    "TF-IDF fr / fr_test": "              precision    recall  f1-score   support\n\n     négatif       0.91      0.92      0.91      1000\n     positif       0.92      0.91      0.91      1000\n\n    accuracy                           0.91      2000\n   macro avg       0.91      0.91      0.91      2000\nweighted avg       0.91      0.91      0.91      2000\n",
+    "TF-IDF fr / fon_proj_test": "              precision    recall  f1-score   support\n\n     négatif       0.40      0.90      0.55        87\n     positif       0.64      0.12      0.20       133\n\n    accuracy                           0.43       220\n   macro avg       0.52      0.51      0.38       220\nweighted avg       0.55      0.43      0.34       220\n",
+    "TF-IDF fr / fon_verifie": "              precision    recall  f1-score   support\n\n     négatif       0.48      0.97      0.65        32\n     positif       0.75      0.08      0.15        36\n\n    accuracy                           0.50        68\n   macro avg       0.62      0.53      0.40        68\nweighted avg       0.62      0.50      0.38        68\n",
+    "TF-IDF fr / fr_val": "              precision    recall  f1-score   support\n\n     négatif       0.92      0.91      0.91      1000\n     positif       0.91      0.92      0.92      1000\n\n    accuracy                           0.92      2000\n   macro avg       0.92      0.92      0.92      2000\nweighted avg       0.92      0.92      0.92      2000\n",
+    "TF-IDF fr+fon / fr_test": "              precision    recall  f1-score   support\n\n     négatif       0.91      0.92      0.92      1000\n     positif       0.92      0.91      0.92      1000\n\n    accuracy                           0.92      2000\n   macro avg       0.92      0.92      0.92      2000\nweighted avg       0.92      0.92      0.92      2000\n",
+    "TF-IDF fr+fon / fon_proj_test": "              precision    recall  f1-score   support\n\n     négatif       0.81      0.74      0.77        87\n     positif       0.84      0.89      0.86       133\n\n    accuracy                           0.83       220\n   macro avg       0.82      0.81      0.82       220\nweighted avg       0.83      0.83      0.83       220\n",
+    "TF-IDF fr+fon / fon_verifie": "              precision    recall  f1-score   support\n\n     négatif       0.83      0.75      0.79        32\n     positif       0.79      0.86      0.83        36\n\n    accuracy                           0.81        68\n   macro avg       0.81      0.81      0.81        68\nweighted avg       0.81      0.81      0.81        68\n",
+    "TF-IDF fr+fon / fr_val": "              precision    recall  f1-score   support\n\n     négatif       0.92      0.90      0.91      1000\n     positif       0.90      0.92      0.91      1000\n\n    accuracy                           0.91      2000\n   macro avg       0.91      0.91      0.91      2000\nweighted avg       0.91      0.91      0.91      2000\n"
+  },
+  "points": {
+    "F1 macro TF-IDF français sur le test Allociné": "0.912",
+    "F1 macro TF-IDF français appliqué au fongbé projeté (zéro-shot lexical)": "0.378",
+    "F1 macro TF-IDF fr+fon sur le test fongbé projeté": "0.816",
+    "F1 macro TF-IDF fr+fon sur le jeu fongbé vérifié": "0.807",
+    "Identification fr/fon (F1 macro)": "0.997",
+    "Taille apprentissage français": "10000",
+    "Taille apprentissage fongbé projeté": "701",
+    "Taille jeu fongbé vérifié": "68"
+  }
+}

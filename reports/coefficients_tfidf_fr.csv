@@ -1,0 +1,31 @@
+classe,feature,coefficient
+positif,word__voir,3.3214423487590112
+positif,word__bon,3.286526022421322
+positif,word__bon film,3.154694155453219
+positif,word__excellent,2.214317852302104
+positif,char__rès b,2.194138733179806
+positif,char__ès b,2.194138733179806
+positif,word__Très,2.1057448235318
+positif,word__très bon,2.0621406390751753
+positif,word__Excellent,1.9785658849784415
+positif,word__ne ennuie,1.896219177994038
+positif,char__ès bo,1.8612463789587117
+positif,word__bien,1.8457408912498152
+positif,word__beau film,1.8192725094915472
+positif,word__beau,1.8143937970293404
+positif,word__Un,1.8102789781029651
+négatif,word__mauvais,-3.1280312552827807
+négatif,word__navet,-2.887079425906576
+négatif,word__mal,-2.76667145239481
+négatif,word__rien,-2.5647543552793057
+négatif,word__intérêt,-2.3889587225563624
+négatif,char__auv,-2.3279146429092146
+négatif,word__ennui,-2.298691679747253
+négatif,char__ennu,-2.2374013416090155
+négatif,word__pas,-2.1854864121768083
+négatif,char__...,-2.171357576035184
+négatif,word__raté,-2.044957397355308
+négatif,char__enn,-1.9357043727431462
+négatif,char__ enn,-1.920695730868944
+négatif,word__éviter,-1.8916059159156913
+négatif,word__trop,-1.881751314951241
